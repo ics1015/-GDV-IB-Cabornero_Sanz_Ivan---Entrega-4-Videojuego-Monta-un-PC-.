@@ -1,0 +1,9 @@
+{
+	"name": "MemoriaRamTexto",
+	"plugin-id": "TextBox",
+	"sid": 430111112667969,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": []
+}
